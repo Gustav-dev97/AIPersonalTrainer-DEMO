@@ -13,10 +13,3 @@ Obs: Como o projeto ainda encontra-se em desenvolvimento pode acontecer alguns e
 porcentagem, para isso basta corrigir na parte especificada no código caso deseje.
 
 -----------------------------------------------------------------------------------------------------------------
-
-Se precisar entrar em contato comigo pode encontrar pelos meios de comunicação abaixo:
-
-	    e-Mail: gustavo.dev97@gmail.com
-	    GitHub: github.com/Gustav-dev97
-
-  Muito Obrigado!
